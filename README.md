@@ -9,3 +9,5 @@
 ### To pull an IMAGE from ```dockerhub```
 > docker pull <IMAGE_NAME>
 
+### To run the image:
+> docker run <IMAGE_NAME>
