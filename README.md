@@ -11,3 +11,15 @@
 
 ### To run the image:
 > docker run <IMAGE_NAME>
+
+### To list
+
+Containers
+> docker container ls
+
+Images
+> docker image ls
+\
+or
+\
+> docker images
