@@ -23,3 +23,6 @@ Images
 or
 \
 > docker images
+
+To spin up multiple containers
+> docker compose
